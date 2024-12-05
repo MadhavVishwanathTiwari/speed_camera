@@ -1,6 +1,7 @@
 # Speed Camera
 
 This Python package detects vehicle speed using a Raspberry Pi, YOLO, and OpenCV.
+Made by 231031010, 231031013, 231031018
 
 ## Features
 - Detects motion in a specified area.
