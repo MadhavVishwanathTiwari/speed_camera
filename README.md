@@ -12,7 +12,9 @@ Made by 231031010, 231031013, 231031018
 
 1. Clone the repository:
    ```bash
-   https://github.com/MadhavVishwanathTiwari/speed_camera/tree/master
+   git clone https://github.com/MadhavVishwanathTiwari/speed_camera.git
+   cd speed_camera
+cd speed_camera
    ```
 2. Install dependencies:
    ```bash
