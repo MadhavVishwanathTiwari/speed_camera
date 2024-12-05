@@ -11,7 +11,7 @@ This Python package detects vehicle speed using a Raspberry Pi, YOLO, and OpenCV
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/speed_camera.git
+   https://github.com/MadhavVishwanathTiwari/speed_camera/tree/master
    ```
 2. Install dependencies:
    ```bash
