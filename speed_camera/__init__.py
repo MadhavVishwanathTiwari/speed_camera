@@ -1,0 +1,1 @@
+from .speed_camera import main
