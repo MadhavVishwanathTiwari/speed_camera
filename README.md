@@ -14,7 +14,6 @@ Made by 231031010, 231031013, 231031018
    ```bash
    git clone https://github.com/MadhavVishwanathTiwari/speed_camera.git
    cd speed_camera
-cd speed_camera
    ```
 2. Install dependencies:
    ```bash
